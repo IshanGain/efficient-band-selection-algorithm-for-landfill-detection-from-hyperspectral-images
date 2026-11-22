@@ -99,26 +99,30 @@ The total reduction depends on the dataset and the JM filtering threshold. In th
 
 ## Repository Structure
 
-```text
-Efficient-band-Selection-algorithm/
-|-- README.md
-|-- requirements.txt
-|-- notebooks/
-|   `-- band-selection-algo.ipynb
-`-- results/
-    |-- band_reduction.png
-    |-- band_visualization.png
-    |-- cec_improvement.png
-    |-- classification_maps.png
-    |-- confusion_matrices.png
-    |-- correlation_matrices.png
-    |-- filtering_comparison.png
-    |-- groundtruth_visualization.png
-    |-- jm_distances.png
-    |-- oa_comparison.png
-    |-- per_class_accuracy.png
-    `-- training_history.png
-    `-- wavelet_entropy.png
+```
+efficient-band-selection-algorithm-for-landfill-detection-from-hyperspectral-images/
+│
+├── notebooks/
+│   └── band-selection-algo.ipynb       # Full pipeline notebook (Stages 1–5)
+│
+├── results/
+│   ├── band_visualization.png
+│   ├── band_reduction.png
+│   ├── cec_improvement.png
+│   ├── classification_maps.png
+│   ├── confusion_matrices.png
+│   ├── correlation_matrices.png
+│   ├── filtering_comparison.png
+│   ├── groundtruth_visualization.png
+│   ├── jm_distances.png
+│   ├── oa_comparison.png
+│   ├── per_class_accuracy.png
+│   ├── training_history.png
+│   └── wavelet_entropy.png
+│
+├── .gitignore
+├── README.md
+└── requirements.txt
 ```
 
 The `results/` directory contains visual outputs from the notebook run. Intermediate NumPy arrays, classification maps, and trained models may also be saved during execution to the notebook's working directory.
