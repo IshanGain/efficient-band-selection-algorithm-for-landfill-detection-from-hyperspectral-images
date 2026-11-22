@@ -2,7 +2,7 @@
 
 <img src="assets/hyperspectral_band_selection_logo.svg" width="600" alt="Project Logo"/>
 
-# Efficient Band Selection Algorithm from Hyperspectral Images
+# Efficient Band Selection Algorithm for Landfill Detection from Hyperspectral Images
 
 ![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-Model_Training-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
