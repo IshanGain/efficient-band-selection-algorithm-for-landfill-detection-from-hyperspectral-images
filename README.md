@@ -111,11 +111,13 @@ The total reduction depends on the dataset and the JM filtering threshold. In th
 
 ## Repository Structure
 
-```
 efficient-band-selection-algorithm-for-landfill-detection-from-hyperspectral-images/
 │
+├── assets/
+│   └── hyperspectral_band_selection_logo.svg  # Project logo
+│
 ├── notebooks/
-│   └── band-selection-algo.ipynb       # Full pipeline notebook (Stages 1–5)
+│   └── band-selection-algo.ipynb              # Full pipeline notebook (Stages 1–5)
 │
 ├── results/
 │   ├── band_visualization.png
@@ -135,7 +137,6 @@ efficient-band-selection-algorithm-for-landfill-detection-from-hyperspectral-ima
 ├── .gitignore
 ├── README.md
 └── requirements.txt
-```
 
 The `results/` directory contains visual outputs from the notebook run. Intermediate NumPy arrays, classification maps, and trained models may also be saved during execution to the notebook's working directory.
 
