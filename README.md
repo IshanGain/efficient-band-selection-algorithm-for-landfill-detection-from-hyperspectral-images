@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="hyperspectral_band_selection_logo.svg" width="600" alt="Project Logo"/>
+<img src="assets/hyperspectral_band_selection_logo.svg" width="600" alt="Project Logo"/>
 
 # Efficient Band Selection Algorithm from Hyperspectral Images
 
