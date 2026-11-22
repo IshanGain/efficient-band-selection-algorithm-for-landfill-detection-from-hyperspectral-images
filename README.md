@@ -1,6 +1,6 @@
 <div align="center">
 
-# Efficient Band Selection Algorithm for Hyperspectral Images
+# Efficient Band Selection Algorithm form Hyperspectral Images
 
 ![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-Scientific_Computing-013243?logo=numpy&logoColor=white)
