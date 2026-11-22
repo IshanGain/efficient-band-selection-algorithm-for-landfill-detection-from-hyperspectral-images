@@ -1,12 +1,12 @@
 <div align="center">
 
-# Efficient Band Selection Algorithm form Hyperspectral Images
+# Efficient Band Selection Algorithm from Hyperspectral Images
 
-![Python](https://img.shields.io/badge/Python-3.9+-blue?logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-Scientific_Computing-013243?logo=numpy&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Model_Training-FF6F00?logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-SVM_&_Metrics-F7931E?logo=scikitlearn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.9+-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-Model_Training-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Scientific_Computing-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-SVM_&_Metrics-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 </div>
 
